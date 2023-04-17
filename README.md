@@ -1,1 +1,1 @@
-This is simple project to lear about react with redux.
+This is simple project to learn about react with redux.
